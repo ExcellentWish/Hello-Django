@@ -3,6 +3,9 @@
 Ths is Django Full stack mini project
 
 
+
+
+
 `python3 -m http.server`
 
 A blue button should appear to click: _Make Public_,
